@@ -1,1 +1,1 @@
-web: python 21ls.py
+web: python bot.py
